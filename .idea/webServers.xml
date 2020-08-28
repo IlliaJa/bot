@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2588e1ac-8938-464d-b0dd-76c8a183e8cf" name="GCP-bot" url="http://35.228.26.125">
+        <fileTransfer host="35.228.26.125" port="22" privateKey="C:\Users\1\Desktop\private.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

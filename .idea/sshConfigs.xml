@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="35.228.26.125" id="e2cba9bc-e446-4436-865e-a1a32c0d9299" keyPath="C:\Users\1\Desktop\private.ppk" port="22" customName="GCP-bot" nameFormat="CUSTOM">
+        <option name="customName" value="GCP-bot" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
