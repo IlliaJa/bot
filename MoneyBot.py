@@ -13,7 +13,7 @@ import re
 import logging
 
 api_token = '1318941045:AAFZvhv3Tdfa8JgdN99Z7ptAfRb64gmIor0'
-webhook_host = '78.27.157.74'
+webhook_host = '80.92.224.173'
 webhook_port = 8443  # 443, 80, 88 or 8443 (port need to be 'open')
 webhook_listen = '0.0.0.0'  # In some VPS you may need to put here the IP addr
 
