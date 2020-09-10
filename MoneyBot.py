@@ -15,7 +15,7 @@ import logging
 api_token = '1318941045:AAFZvhv3Tdfa8JgdN99Z7ptAfRb64gmIor0'
 webhook_host = '88.155.138.153'
 webhook_port = 8443  # 443, 80, 88 or 8443 (port need to be 'open')
-webhook_listen = '88.155.138.153'  # In some VPS you may need to put here the IP addr
+webhook_listen = '0.0.0.0'  # In some VPS you may need to put here the IP addr
 
 webhook_ssl_cert = './url_cert.pem'  # Path to the ssl certificate
 webhook_ssl_priv = './url_private.key'  # Path to the ssl private key
